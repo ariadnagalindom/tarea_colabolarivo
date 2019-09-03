@@ -1,2 +1,11 @@
-"Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+﻿"Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+
+
 AriadnaGalindo
+
+EmilioMoran
+
+El repositorio remoto actualizado se puede encontrar en las url´s
+
+https://github.com/EmilioMH01/tarea_colabolarivo
+https://github.com/ariadnagalindom/tarea_colabolarivo
